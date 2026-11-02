@@ -122,7 +122,7 @@ go test ./...
 ## Author
 
 Built by [Nana Kofi Minta Addadzi-Koom](https://nanakofi.dev) at
-[Mint Lab](https://mintcreativestudios.com/lab), the research side of Mint Creative Studios.
+[Mint Lab](https://mintcreativestudios.com/lab), Mint Creative Studios LLC.
 
 ## License
 
